@@ -1,2 +1,2 @@
 # Calculator
-create a calculator using basic java, NetBeans IDE
+create a simple calculator using basic java, NetBeans IDE
