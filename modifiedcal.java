@@ -175,7 +175,7 @@ public class cal extends javax.swing.JFrame {
             }
         });
 
-        jButton3.setText("<html>\n\nx<sup>1/2</sup>\n</html>\n");
+        jButton3.setText("sqrt");
         jButton3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton3ActionPerformed(evt);
