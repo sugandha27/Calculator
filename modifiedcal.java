@@ -182,7 +182,7 @@ public class cal extends javax.swing.JFrame {
             }
         });
 
-        jButton4.setText("<html>\n\nx<sup>2</sup>\n</html>\n");
+        jButton4.setText("<html>\nx<sup>2</sup>\n</html>\n");
         jButton4.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton4ActionPerformed(evt);
